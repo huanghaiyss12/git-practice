@@ -3,3 +3,4 @@ second from newbranch
 add line from conflict-branch1
 add line from conflict-branch2
 to be continue
+test stash
